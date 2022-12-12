@@ -1,0 +1,41 @@
+* {
+    font-family: Monospace, Calibre, sans-serif;
+    padding: 10px;
+    margin: 0 auto;
+}
+
+form {
+    align-content: center;
+    width: 1000px;
+    background-color: #10A19D;
+    border-radius: 20px;
+    color: black;
+}
+
+input {
+    border-radius: 10px;
+}
+
+p {
+    color: red;
+}
+
+.desain-layout {
+    text-align: center;
+}
+
+.box {
+    width: 400px;
+    border-radius: 20px;
+}
+
+button {
+    border: none;
+    background-color: #DC3535;
+    color: black;
+    border-radius: 10px;
+}
+
+h6 {
+    float: left;
+}
